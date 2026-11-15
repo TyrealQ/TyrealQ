@@ -13,6 +13,7 @@ The profile shows one SVG card: an ASCII portrait on the left and a terminal-sty
 | `scripts/build_card.py` | Fetches GitHub stats and writes `card-dark.svg` and `card-light.svg` (standard library only) |
 | `.github/workflows/update.yml` | Runs `build_card.py` daily at 06:17 UTC and on demand; commits only when a card changes |
 | `preview/index.html` | Local preview that mimics the GitHub profile page, with a light/dark switch |
+| `ruff.toml` | Lint settings for the scripts. The target is Python 3.9 because the local `python3` is 3.9; the workflow uses 3.12 |
 
 ## Commands
 
@@ -24,6 +25,9 @@ GITHUB_TOKEN=$(gh auth token) python3 scripts/build_card.py
 
 # Preview at http://127.0.0.1:8765/preview/
 python3 -m http.server 8765 --bind 127.0.0.1
+
+# Lint the scripts
+uvx ruff check scripts/
 
 # Redo the portrait from a new photo (only when the photo changes)
 swift scripts/cutout.swift /path/to/photo.png art/cutout.png

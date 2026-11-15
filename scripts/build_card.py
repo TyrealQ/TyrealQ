@@ -135,7 +135,7 @@ def panel(stats, c):
 def render(theme, stats):
     c = THEMES[theme]
     art = (ROOT / "art" / f"portrait-{theme}.txt").read_text().splitlines()
-    art_cols = max(len(l) for l in art)
+    art_cols = max(len(line) for line in art)
     right = panel(stats, c)
     art_w = art_cols * ART_W
     gap = 3 * CHAR_W

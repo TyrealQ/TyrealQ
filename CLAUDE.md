@@ -7,4 +7,4 @@ This repo is the special `TyrealQ/TyrealQ` repository: GitHub shows its `README.
 - The daily workflow commits to `master` as `github-actions[bot]`; pull before editing locally.
 - Commits and pushes go through `/q-skills:commit` and `/q-skills:ship`.
 
-Files, commands, and update steps: `scripts/README.md`.
+Files, commands, and update steps: @scripts/README.md
