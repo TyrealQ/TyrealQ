@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="853" height="512" viewBox="0 0 853 512" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14px">
-<rect x="0.5" y="0.5" width="852" height="511" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="870" height="512" viewBox="0 0 870 512" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14px">
+<rect x="0.5" y="0.5" width="869" height="511" rx="10" fill="#ffffff" stroke="#d0d7de"/>
 <text fill="#24292f" font-size="4.4px" xml:space="preserve">
 <tspan x="24" y="28.1" textLength="232.3" lengthAdjust="spacingAndGlyphs">                                      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="24" y="33.2" textLength="237.6" lengthAdjust="spacingAndGlyphs">                                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -94,22 +94,20 @@
 <tspan x="24" y="487.1" textLength="343.2" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BHX,..,,,,::::::;iirssXXXrr:..;Xrirs;,;2S9#SGHHGB@@M:..iBB:.:B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text>
 <text xml:space="preserve">
-<tspan x="392.4" y="71.0"><tspan fill="#1f2328" font-weight="bold">tyrealq</tspan><tspan fill="#24292f">@</tspan><tspan fill="#1f2328" font-weight="bold">github</tspan></tspan>
-<tspan x="392.4" y="91.0"><tspan fill="#afb8c1">────────────────────────────────────────────────────</tspan></tspan>
-<tspan x="392.4" y="111.0"><tspan fill="#990000">Name</tspan><tspan fill="#afb8c1"> ......... </tspan><tspan fill="#24292f">Yizhou (Tyreal) Qian 钱亦舟</tspan></tspan>
-<tspan x="392.4" y="131.0"><tspan fill="#990000">Alias</tspan><tspan fill="#afb8c1"> ........ </tspan><tspan fill="#24292f">Dr. Q</tspan></tspan>
-<tspan x="392.4" y="151.0"><tspan fill="#990000">Role</tspan><tspan fill="#afb8c1"> ......... </tspan><tspan fill="#24292f">Assistant Professor</tspan></tspan>
-<tspan x="392.4" y="171.0"><tspan fill="#990000">Affiliation</tspan><tspan fill="#afb8c1"> .. </tspan><tspan fill="#24292f">Indiana University Bloomington</tspan></tspan>
-<tspan x="392.4" y="191.0"><tspan fill="#990000">Approach</tspan><tspan fill="#afb8c1"> ..... </tspan><tspan fill="#24292f">Computational social science</tspan></tspan>
-<tspan x="392.4" y="211.0"><tspan fill="#990000">Data</tspan><tspan fill="#afb8c1"> ......... </tspan><tspan fill="#24292f">Text, images, video, and audio</tspan></tspan>
-<tspan x="392.4" y="231.0"><tspan fill="#990000">Building</tspan><tspan fill="#afb8c1"> ..... </tspan><tspan fill="#24292f">Open datasets and AI research tools</tspan></tspan>
-<tspan x="392.4" y="271.0"><tspan fill="#1f2328">─ Contact </tspan><tspan fill="#afb8c1">──────────────────────────────────────────</tspan></tspan>
-<tspan x="392.4" y="291.0"><tspan fill="#990000">Website</tspan><tspan fill="#afb8c1"> ...... </tspan><tspan fill="#24292f">tyrealq.github.io</tspan></tspan>
-<tspan x="392.4" y="311.0"><tspan fill="#990000">Scholar</tspan><tspan fill="#afb8c1"> ...... </tspan><tspan fill="#24292f">Google Scholar</tspan></tspan>
-<tspan x="392.4" y="331.0"><tspan fill="#990000">YouTube</tspan><tspan fill="#afb8c1"> ...... </tspan><tspan fill="#24292f">@tyrealq</tspan></tspan>
-<tspan x="392.4" y="371.0"><tspan fill="#1f2328">─ GitHub Stats </tspan><tspan fill="#afb8c1">─────────────────────────────────────</tspan></tspan>
-<tspan x="392.4" y="391.0"><tspan fill="#990000">Repos</tspan><tspan fill="#afb8c1"> ........ </tspan><tspan fill="#24292f">23</tspan></tspan>
-<tspan x="392.4" y="411.0"><tspan fill="#990000">Stars</tspan><tspan fill="#afb8c1"> ........ </tspan><tspan fill="#24292f">202</tspan></tspan>
-<tspan x="392.4" y="431.0"><tspan fill="#990000">Commits</tspan><tspan fill="#afb8c1"> ...... </tspan><tspan fill="#24292f">1,100</tspan></tspan>
-<tspan x="392.4" y="451.0"><tspan fill="#990000">On GitHub</tspan><tspan fill="#afb8c1"> .... </tspan><tspan fill="#24292f">6 years, 10 months</tspan></tspan>
+<tspan x="392.4" y="91.0"><tspan fill="#1f2328" font-weight="bold">tyrealq</tspan><tspan fill="#24292f">@</tspan><tspan fill="#1f2328" font-weight="bold">github</tspan></tspan>
+<tspan x="392.4" y="111.0"><tspan fill="#afb8c1">──────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="392.4" y="131.0"><tspan fill="#990000">Name</tspan><tspan fill="#afb8c1"> ........... </tspan><tspan fill="#24292f">Yizhou (Tyreal) Qian 钱亦舟</tspan></tspan>
+<tspan x="392.4" y="151.0"><tspan fill="#990000">Alias</tspan><tspan fill="#afb8c1"> .......... </tspan><tspan fill="#24292f">Dr. Q</tspan></tspan>
+<tspan x="392.4" y="171.0"><tspan fill="#990000">Approach</tspan><tspan fill="#afb8c1"> ....... </tspan><tspan fill="#24292f">Computational social science</tspan></tspan>
+<tspan x="392.4" y="191.0"><tspan fill="#990000">Data</tspan><tspan fill="#afb8c1"> ........... </tspan><tspan fill="#24292f">Text, images, video, and audio</tspan></tspan>
+<tspan x="392.4" y="211.0"><tspan fill="#990000">Building</tspan><tspan fill="#afb8c1"> ....... </tspan><tspan fill="#24292f">Open datasets and AI research tools</tspan></tspan>
+<tspan x="392.4" y="251.0"><tspan fill="#1f2328">─ Contact </tspan><tspan fill="#afb8c1">────────────────────────────────────────────</tspan></tspan>
+<tspan x="392.4" y="271.0"><tspan fill="#990000">Personal site</tspan><tspan fill="#afb8c1"> .. </tspan><tspan fill="#24292f">tyrealq.github.io</tspan></tspan>
+<tspan x="392.4" y="291.0"><tspan fill="#990000">Faculty page</tspan><tspan fill="#afb8c1"> ... </tspan><tspan fill="#24292f">publichealth.indiana.edu</tspan></tspan>
+<tspan x="392.4" y="311.0"><tspan fill="#990000">YouTube</tspan><tspan fill="#afb8c1"> ........ </tspan><tspan fill="#24292f">@tyrealq</tspan></tspan>
+<tspan x="392.4" y="351.0"><tspan fill="#1f2328">─ GitHub Stats </tspan><tspan fill="#afb8c1">───────────────────────────────────────</tspan></tspan>
+<tspan x="392.4" y="371.0"><tspan fill="#990000">Repos</tspan><tspan fill="#afb8c1"> .......... </tspan><tspan fill="#24292f">23</tspan></tspan>
+<tspan x="392.4" y="391.0"><tspan fill="#990000">Stars</tspan><tspan fill="#afb8c1"> .......... </tspan><tspan fill="#24292f">202</tspan></tspan>
+<tspan x="392.4" y="411.0"><tspan fill="#990000">Commits</tspan><tspan fill="#afb8c1"> ........ </tspan><tspan fill="#24292f">1,101</tspan></tspan>
+<tspan x="392.4" y="431.0"><tspan fill="#990000">On GitHub</tspan><tspan fill="#afb8c1"> ...... </tspan><tspan fill="#24292f">6 years, 10 months</tspan></tspan>
 </text></svg>

@@ -11,16 +11,14 @@ USER = "TyrealQ"
 PROFILE = [
     ("Name", "Yizhou (Tyreal) Qian 钱亦舟"),
     ("Alias", "Dr. Q"),
-    ("Role", "Assistant Professor"),
-    ("Affiliation", "Indiana University Bloomington"),
     ("Approach", "Computational social science"),
     ("Data", "Text, images, video, and audio"),
     ("Building", "Open datasets and AI research tools"),
 ]
 
 CONTACT = [
-    ("Website", "tyrealq.github.io"),
-    ("Scholar", "Google Scholar"),
+    ("Personal site", "tyrealq.github.io"),
+    ("Faculty page", "publichealth.indiana.edu"),
     ("YouTube", "@tyrealq"),
 ]
 
@@ -43,8 +41,8 @@ ART_SIZE = 4.4
 ART_W = ART_SIZE * 0.6
 ART_LINE = 5.1
 PAD = 24
-KEY_W = 14
-PANEL_COLS = 52
+KEY_W = 16
+PANEL_COLS = 54
 
 
 def graphql(query, token):

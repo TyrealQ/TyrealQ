@@ -36,7 +36,7 @@ python3 scripts/make_ascii.py art/cutout.png art
 
 ## Editing
 
-- **Panel text**: edit `PROFILE` and `CONTACT` at the top of `build_card.py`, then rebuild. The panel is 52 characters wide (`PANEL_COLS`) and values start at column 15, so a value longer than 37 characters runs past the edge.
+- **Panel text**: edit `PROFILE` and `CONTACT` at the top of `build_card.py`, then rebuild. The panel is 54 characters wide (`PANEL_COLS`) and values start at column 17 (`KEY_W` + 1), so a value longer than 37 characters runs past the edge.
 - **Stats**: `stat_lines()` in `build_card.py` controls which numbers appear. Commits are summed across every year from `contributionYears`. The workflow uses the built-in Actions token, which sees public activity only, so its commit total can be lower than a local run with a personal token.
 - **Colors**: `THEMES` in `build_card.py`. Keys use IU crimson (`#990000`) on light and a lighter red (`#ff7b72`) on dark.
 - **Portrait**: the settings at the top of `make_ascii.py`. `CROP` frames the head in `cutout.png` pixels, `COLS` sets the detail, `BLACK` and `WHITE` set the brightness range taken from the skin tones, and `GAMMA` darkens mid-tones. If `COLS` changes, change `ART_SIZE` and `ART_LINE` in `build_card.py` by the same proportion so the portrait keeps its height.
