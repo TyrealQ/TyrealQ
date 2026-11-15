@@ -12,7 +12,6 @@ PROFILE = [
     ("Name", "Yizhou (Tyreal) Qian 钱亦舟"),
     ("Alias", "Dr. Q"),
     ("Approach", "Computational social science"),
-    ("Data", "Text, images, video, and audio"),
     ("Building", "Open datasets and AI research tools"),
 ]
 

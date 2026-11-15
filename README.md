@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="card-dark.svg">
-  <img alt="Yizhou (Tyreal) Qian. Approach: computational social science. Data: text, images, video, and audio. Building: open datasets and AI research tools." src="card-light.svg" width="100%">
+  <img alt="Yizhou (Tyreal) Qian. Approach: computational social science. Building: open datasets and AI research tools." src="card-light.svg" width="100%">
 </picture>
 
 <p align="center">
