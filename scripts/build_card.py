@@ -17,9 +17,8 @@ PROFILE = [
 ]
 
 CONTACT = [
-    ("Personal site", "tyrealq.github.io"),
-    ("Faculty page", "publichealth.indiana.edu"),
-    ("YouTube", "@tyrealq"),
+    ("Email", "tyqian@iu.edu"),
+    ("Hugging Face", "huggingface.co/tyrealqian"),
 ]
 
 THEMES = {
